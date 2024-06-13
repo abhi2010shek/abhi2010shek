@@ -1,5 +1,5 @@
-#include <vector> // Include header for vector
-#include <algorithm> // Include header for sort
+#include <vector> 
+#include <algorithm> 
 
 class Solution {
 public:
